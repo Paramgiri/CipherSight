@@ -106,7 +106,7 @@ CipherSight
 
 **Name:** Paramgiri Goswami
 
-**Course:** Diploma in Computer Science and Engineering
+**Course:** Diploma in Computer Engineering
 
 **Year:** Third Year
 
